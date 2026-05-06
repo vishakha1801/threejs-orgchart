@@ -1,5 +1,5 @@
 # Three.js Organization Chart
-Prototype demo of a 3D organization chart in React and Three.js. Built to be extended for future. On initial render, the tree opens in 2D. Toggling "Show Agents" tilts the camera into 3D and reveals each person's skills/expertise along the Z axis.
+Prototype demo of a 3D organization chart in React and Three.js. Built to be extended for future demos. On initial render, the tree opens in 2D. Toggling "Show Agents" tilts the camera into 3D and reveals each person's skills/expertise along the Z axis.
 
 ## How to Run
 ```
